@@ -1,0 +1,10 @@
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    
+    display: none;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
